@@ -1,2 +1,0 @@
-this file is txt file
-we can use restet cmd 
