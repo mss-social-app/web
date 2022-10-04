@@ -1,6 +1,7 @@
 adding this new line
 adding one new for stash
 hello every one
+updating for cherry-pick
 my name
 is akash 
 and starting git
